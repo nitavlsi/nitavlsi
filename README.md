@@ -1,4 +1,4 @@
-- 👋 Hi, it's nitaic
+- 👋 Hi, I'm nitaic
 
 <!---
 nitavlsi/nitavlsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
