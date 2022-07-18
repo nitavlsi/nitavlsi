@@ -1,5 +1,5 @@
 - 👋 Hi,
-- 📫 Reach me on linkedin https://www.linkedin.com/in/nabanita-p-b69357234/
+- 📫 Reach me on https://www.linkedin.com/in/nabanita-p-b69357234/
 
 <!---
 nitavlsi/nitavlsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
