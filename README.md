@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @nitavlsi
-- 👀 I’m interested in digital design
-- 🌱 I’m currently learning verilog
-- 📫 Reach me on linkedin
+- 👋 Hi,
+- 📫 Reach me on linkedin https://www.linkedin.com/in/nabanita-p-b69357234/
 
 <!---
 nitavlsi/nitavlsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
