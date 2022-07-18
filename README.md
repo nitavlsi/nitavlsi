@@ -1,4 +1,4 @@
-- 👋 Hi, I'm  Nita
+- 👋 Hi!
 
 <!---
 nitavlsi/nitavlsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
